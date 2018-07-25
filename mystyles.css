@@ -1,0 +1,23 @@
+h1{
+	color:beige;
+}	
+
+body{
+	;background-color: red
+}
+h1{
+	font-size: 100px;
+}
+.mynav{
+	background-color: black;
+	color:white;
+
+}
+
+.navlink:hover{
+	bacground-color:gray;
+}
+
+img{
+	width:100%;
+}
